@@ -1,0 +1,76 @@
+
+
+.head{
+    
+    display: flex;
+    padding-bottom: 50px;
+}
+.logo{
+    font-family: Papyrus, Courier New;
+    font-weight: 400;
+}
+.menu{
+    margin-left: 500px;
+    font-size: medium;
+    font-weight: 300;
+    font-style: bold;
+    padding-bottom: 4px;
+    font-style: none;
+}
+/* unvisited link */
+a:link {
+    text-decoration: none;
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  /* ===============HEADING=================== */
+  .tittle{
+    text-align: center;
+    font-size: 32px;
+    color: #000000;
+    font-weight: 1000;
+  }
+  .kwibaraguza{
+    text-align: center;
+    color: #958B8B;
+  }
+  img{
+    width: 300px;
+    height: 300px;
+  }
+  td{
+    padding: 50px;
+    
+  }
+  table{
+    margin-left: 300px;
+  }
+  .send{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-top: 10px;
+
+ 
+}
+button{
+  background-color: #362A30;
+  color: #ffffff;
+  height: 40px;
+  width: 200px;
+}
